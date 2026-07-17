@@ -26,13 +26,13 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: Michael.B.Cannell@uth.tmc.edu
-  phone: 972-546-2925
+  email: brad.cannell@tcu.edu
+  phone: 817-257-1426
   address:
-    street: 2777 N Stemmons Fwy, Suite 8400
-    city: Dallas
+    street: 2800 W. Bowie Street, Ste. 2101
+    city: Fort Worth
     region: TX
-    postcode: '75207'
+    postcode: '76109'
     country: United States
     country_code: US
 #  coordinates:

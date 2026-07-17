@@ -2,7 +2,7 @@
 abstract:                                                                         Objective - To pilot test the feasibility of implementing an elder abuse (EA) screening tool (DETECT) designed for medics. <br> <br> Methods - Testing occurred between September 17th, 2015 and October 26th, 2015. MedStar Mobile Healthcare medics completed the DETECT tool when responding to calls for community-dwelling patients 65 years of age or older. <br> <br> Results - The DETECT tool was used 1,248 times by 97% of medics responding to an eligible 911 call. Medics responded affirmatively to at least one screening item on 209 of the completed screenings (16.8%). Immediately following the introduction of the DETECT tool, there was an increase of 5.4 (226% above baseline) reports per month (p = 0.0056). <br> <br> Conclusions - The DETECT tool was easily incorporated into medic’s field-based practice and resulted in an increase in medic generated reports of EA to APS. Future research designed to evaluate the tool’s validity and reliability are warranted.
 
 author_notes:
-- Department of Epidemiology, Human Genetics & Environmental Sciences, University of Texas School of Public Health, Dallas, TX, USA
+- Department of Health Sciences and Public Health, Texas Christian University, Fort Worth, TX, USA
 - Department of Epidemiology, Human Genetics & Environmental Sciences, University of Texas School of Public Health, Dallas, TX, USA
 - Department of Behavioral Sciences and Health Education, Rollins School of Public Health, Emory University, Atlanta, GA, USA
 - Department of Epidemiology, Human Genetics & Environmental Sciences, University of Texas School of Public Health, Dallas, TX, USA

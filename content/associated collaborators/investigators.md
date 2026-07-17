@@ -52,13 +52,14 @@ subtitle = ""
      height="300" >}}
 
 #### Brad Cannell, PhD, MPH
-Associate Professor <br>
-Department of Epidemiology, Human Genetics & Environmental Sciences <br>
-The University of Texas Health Science Center at Houston School of Public Health <br>
-Dallas Campus <br>
-Dallas, TX 75390 <br>
-Phone: 972-546-2941 <br>
-Email: Michael.B.Cannell@uth.tmc.edu <br>
+Eleanor & Murray Zoota Endowed Professor in Neurodegenerative Research <br>
+Associate Dean for Research <br>
+Co-Director, Center for Neurodegenerative Disease <br>
+TCU | Harris College of Nursing & Health Sciences <br>
+Department of Health Sciences and Public Health <br>
+2800 W. Bowie Street | Ste. 2101 | Fort Worth, TX 76109 <br>
+Office: 817-257-1426 <br>
+Email: brad.cannell@tcu.edu <br>
 <br>
 
 {{< figure src="jennifermgonzalez.jpeg" caption="" numbered="false" width="200" 
